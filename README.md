@@ -163,7 +163,6 @@ Given a binary tree, find its minimum depth.
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
 
 ### 155. Min Stack
-Total Accepted: 67854 Total Submissions: 309809 Difficulty: Easy
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
 push(x) -- Push element x onto stack.  
