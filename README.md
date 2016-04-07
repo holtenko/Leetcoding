@@ -75,8 +75,8 @@ For example, your query should return the following for the above table:
 |:-------:|
 | a@b.com |
 
-**Note:** All emails are in lowercase.
-=======
+**Note:** All emails are in lowercase.  
+
 ### 225. Implement Stack using Queues
 Implement the following operations of a stack using queues.
 
@@ -106,3 +106,66 @@ How many possible unique paths are there?
 Above is a 3 x 7 grid. How many possible unique paths are there?
 
 **Note:** m and n will be at most 100.
+
+### 116. Populating Next Right Pointers in Each Node
+Given a binary tree
+
+```cpp
+struct TreeLinkNode {
+      TreeLinkNode *left;
+      TreeLinkNode *right;
+      TreeLinkNode *next;
+    }
+```
+Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+
+Initially, all next pointers are set to NULL.
+
+**Note:**  
+You may only use constant extra space.  
+You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).
+For example,  
+Given the following perfect binary tree,  
+　　　　1  
+　　　/ 　\   
+　　2　　　 3  
+　/　 \ 　　/　 \  
+4 　　5 　6 　　7
+
+After calling your function, the tree should look like:  
+  　　　　　1 -> NULL  
+　　　　/　 　 \  
+　　　2 　->　 3 -> NULL  
+　　/ 　\  　　　/ 　\  
+　4　->　5->　6->　7 -> NULL  
+
+### 1. Two Sum
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution.
+
+**Example:**
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+
+### 100. Same Tree
+
+Given two binary trees, write a function to check if they are equal or not.
+
+Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
+
+### 111. Minimum Depth of Binary Tree
+
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+### 155. Min Stack
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+push(x) -- Push element x onto stack.  
+pop() -- Removes the element on top of the stack.  
+top() -- Get the top element.  
+getMin() -- Retrieve the minimum element in the stack.  
