@@ -1,4 +1,9 @@
 /**
+* Created by holten on 2016-06-29.
+* Email: holten.ko@gmail.com
+*/
+
+/**
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;

@@ -1,4 +1,7 @@
-# Solutions to Leetcode
+# Solutions to Leetcode with Java/C++
+
+## Created by holten.
+## Email: holten.ko@gmail.com
 
 ### 328. Odd Even Linked List
 Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.
@@ -169,3 +172,10 @@ push(x) -- Push element x onto stack.
 pop() -- Removes the element on top of the stack.  
 top() -- Get the top element.  
 getMin() -- Retrieve the minimum element in the stack.  
+
+
+### 344. Reverse String
+Write a function that takes a string as input and returns the string reversed.
+
+Example:
+Given s = "hello", return "olleh".
