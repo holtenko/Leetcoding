@@ -18,3 +18,19 @@ public class Solution {
 		return result;
     }
 }
+
+public class Solution {
+    public int[] countBits(int num) {
+		int[] result = new int[num + 1];
+		int step = 1;
+		for (int i = 1; i < num + 1;) {
+			for (int j = 0; j < step; j++) {
+				result[i++] = result[j] + 1;
+				if(i==num+1)
+                    break;
+			}
+			step += step;
+		}
+		return result;
+    }
+}
