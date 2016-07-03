@@ -196,3 +196,7 @@ Can you do it like a boss? Do it without using any builtin function like __built
 Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the Hamming weight).
 
 For example, the 32-bit integer ’11' has binary representation 00000000000000000000000000001011, so the function should return 3.
+
+### 104. Maximum Depth of Binary Tree
+Given a binary tree, find its maximum depth.
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
