@@ -200,3 +200,21 @@ For example, the 32-bit integer ’11' has binary representation 000000000000000
 ### 104. Maximum Depth of Binary Tree
 Given a binary tree, find its maximum depth.
 The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+### 226. Invert Binary Tree
+Invert a binary tree.
+```
+     4
+   /   \
+  2     7
+ / \   / \
+1   3 6   9
+```
+to
+```
+     4
+   /   \
+  7     2
+ / \   / \
+9   6 3   1
+```
