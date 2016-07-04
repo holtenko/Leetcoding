@@ -226,3 +226,13 @@ For example, given nums = [0, 1, 0, 3, 12], after calling your function, nums sh
 *Note:*
 You must do this in-place without making a copy of the array.
 Minimize the total number of operations.
+
+### 349. Intersection of Two Arrays
+Given two arrays, write a function to compute their intersection.
+
+Example:
+Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
+
+*Note:*
+Each element in the result must be unique.
+The result can be in any order.
