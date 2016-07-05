@@ -244,3 +244,8 @@ Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node wi
 ### 100. Same Tree
 Given two binary trees, write a function to check if they are equal or not.
 Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
+
+### 7. Reverse Integer
+Reverse digits of an integer.
+Example1: x = 123, return 321
+Example2: x = -123, return -321
