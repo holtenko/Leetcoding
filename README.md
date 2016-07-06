@@ -257,3 +257,7 @@ mplement atoi to convert a string to an integer.
 
 ### 9. Palindrome Number
 Determine whether an integer is a palindrome. Do this without extra space.
+
+### 13. Roman to Integer
+Given a roman numeral, convert it to an integer.
+Input is guaranteed to be within the range from 1 to 3999.
