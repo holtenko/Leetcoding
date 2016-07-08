@@ -335,3 +335,8 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
 Given input array `nums = [3,2,2,3]`, `val = 3`
 
 Your function should return length = 2, with the first two elements of nums being 2.
+
+### 28. Implement strStr()
+Implement strStr().
+
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
