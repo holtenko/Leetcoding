@@ -340,3 +340,15 @@ Your function should return length = 2, with the first two elements of nums bein
 Implement strStr().
 
 Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+### 36. Valid Sudoku
+Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
+
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
+
+A partially filled sudoku which is valid.
+
+**Note:**
+A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
