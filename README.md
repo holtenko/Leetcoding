@@ -396,3 +396,16 @@ For example, given [1,2,3,4], return [24,12,8,6].
 
 Follow up:
 Could you solve it with constant space complexity? (Note: The output array does not count as extra space for the purpose of space complexity analysis.)
+
+### 242. Valid Anagram
+Given two strings s and t, write a function to determine if t is an anagram of s.
+
+For example,
+s = "anagram", t = "nagaram", return true.
+s = "rat", t = "car", return false.
+
+**Note:**
+You may assume the string contains only lowercase alphabets.
+
+**Follow up:**
+What if the inputs contain unicode characters? How would you adapt your solution to such case?
