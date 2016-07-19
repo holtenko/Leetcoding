@@ -4,11 +4,11 @@
 ## Email: holten.ko@gmail.com
 
 ## Updated by:
-### Fricin Yu
-### Holten Gao
-### Jacob Tian
+- Fricin Yu
+- Holten Gao
+- Jacob Tian
 
 ## Directory：
-### **Algorithms：**Solutions  to Algorithm problems in Leetcode. 
-### **Database：**Solutions  to Database problems in Leetcode. 
-### **Shell：**Solutions  to Shell problems in Leetcode. 
+- **Algorithms：**Solutions  to Algorithm problems in Leetcode. 
+- **Database：**Solutions  to Database problems in Leetcode. 
+- **Shell：**Solutions  to Shell problems in Leetcode. 
