@@ -1,7 +1,7 @@
 # Solutions to Leetcode with Java/C++
 
-## Created by holten.
-## Email: holten.ko@gmail.com
+#### Created by holten.
+#### Email: holten.ko@gmail.com
 
 ## Updated by:
 - Fricin Yu
