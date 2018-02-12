@@ -108,6 +108,7 @@ Solutions to Leetcode with C++/Java
 ### LeetCode Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|595|[Big Countries](https://leetcode.com/problems/big-countries) | [MySQL](./Database/Q595_BigCountries_holten.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](./Database/Q197_RisingTemperature_holten.sql)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](./Database/Q196_DeleteDuplicateEmails_holten.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](./Database/Q182_DuplicateEmails_Fricin.sql)|Easy|
