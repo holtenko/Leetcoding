@@ -1,4 +1,6 @@
 # Leetcode
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 Solutions to Leetcode with C++/Java
 
 ### LeetCode Algorithm
@@ -126,8 +128,6 @@ Solutions to Leetcode with C++/Java
 - [Jacob Tian](https://github.com/onlytjt)
 
 ## Licence
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-
 MIT License
 
 Copyright (c) 2016 - 2018 holten
