@@ -109,7 +109,7 @@ Solutions to Leetcode with C++/Java
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](./Database/Q197_RisingTemperature_holten.sql)|Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](./Database/Q196_DeleteDuplicateEmails_holten.sql)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](./Database/Q197_RisingTemperature_holten.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](./Database/Q182_Duplicate Emails_Fricin.sql) |Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [MySQL](./Database/Q181_EmployeesEarningMoreThanTheirManagers_Fricin.sql)|Easy|
 
