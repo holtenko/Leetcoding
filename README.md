@@ -126,6 +126,7 @@ Solutions to Leetcode with C++/Java
 
 ## Licence
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 MIT License
 
 Copyright (c) 2018 holten
