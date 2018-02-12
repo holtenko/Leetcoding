@@ -80,7 +80,7 @@ Solutions to Leetcode with C++/Java
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](./Algorithms/Q027_RemoveElement_holten.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./Algorithms/Q026_RemoveDuplicatesfromSortedArray_holten.java)|Easy|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
-|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./Algorithms/Q024_SwapNodesinPairs_holten.java|Medium|
+|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./Algorithms/Q024_SwapNodesinPairs_holten.java)|Medium|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| |Medium|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Algorithms/Q021_MergeTwoSortedLists_holten.java)|Easy|
@@ -108,9 +108,9 @@ Solutions to Leetcode with C++/Java
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](./Algorithms/Q197_RisingTemperature_holten.sql)|Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](./Algorithms/Q196_DeleteDuplicateEmails_holten.sql)|Easy|
-|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](./Algorithms/Q182_Duplicate Emails_Fricin.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](./Database/Q197_RisingTemperature_holten.sql)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](./Database/Q196_DeleteDuplicateEmails_holten.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](./Database/Q182_Duplicate Emails_Fricin.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [MySQL](./Database/Q181_EmployeesEarningMoreThanTheirManagers_Fricin.sql)|Easy|
 
 ### LeetCode Algorithm
