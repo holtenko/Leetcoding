@@ -4,7 +4,7 @@ Solutions to Leetcode with C++/Java
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|657|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) | [Java](./Algorithms/Q657_JudgeRouteCircle_holten.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./Algorithms/Q389_FindtheDifference_holten.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./Algorithms/Q350_IntersectionofTwoArraysII_holten.java)|Easy|
