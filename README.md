@@ -1,3 +1,5 @@
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 # Leetcode
 Solutions to Leetcode with C++/Java
 
@@ -105,7 +107,7 @@ Solutions to Leetcode with C++/Java
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./Algorithms/Q001_TwoSum_fricin.cpp),[Java](./Algorithms/Q001_TwoSum_holten.java)|Medium|
 
-### LeetCode Algorithm
+### LeetCode Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](./Database/Q197_RisingTemperature_holten.sql)|Easy|
@@ -113,7 +115,7 @@ Solutions to Leetcode with C++/Java
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](./Database/Q182_DuplicateEmails_Fricin.sql)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [MySQL](./Database/Q181_EmployeesEarningMoreThanTheirManagers_Fricin.sql)|Easy|
 
-### LeetCode Algorithm
+### LeetCode Shell
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](./Shell/Q195_TenthLine_holten)|Easy|
