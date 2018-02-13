@@ -125,6 +125,7 @@ Solutions to Leetcode with C++/Java
 
 
 ## Contributors
+Contribute your solutions, and your name will be here.
 - [Fricin Yu](https://github.com/friciny)
 - [Holten Gao](https://github.com/holtenko)
 - [Jacob Tian](https://github.com/onlytjt)
