@@ -55,7 +55,7 @@ Solutions to Leetcode with C++/Java
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| |Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| |Medium|
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| |Medium|
-|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./Algorithms/Q053_MaximumSubArray_tjt.java)|Medium|
+|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./Algorithms/Q053_MaximumSubArray_tjt.java)[Java2](./Algorithms/53.maximum-subarray.java)|Easy|
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| |Medium|
