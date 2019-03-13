@@ -73,7 +73,7 @@ Solutions to Leetcode with C++/Java
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](./Algorithms/Q038_CountandSay_holten.java)|Easy|
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| |Hard|
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](./Algorithms/Q036_ValidSudoku_holten.java)|Easy|
-|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| |Medium|
+|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Java](./Algorithms/35.search-insert-position.java) |Easy|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| |Medium|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| |Hard|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| |Hard|
