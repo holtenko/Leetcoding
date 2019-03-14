@@ -42,6 +42,7 @@ Solutions to Leetcode with C++/Java
 |102|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/Q102_BinaryTreeLevelOrderTraversal_holten.java)|Easy|
 |101|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| |Easy|
 |100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./Algorithms/Q100_SameTree_fricin.cpp),[Java](./Algorithms/Q100_SameTree_holten.java)|Easy|
+|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](./Algorithms/70.climbing-stairs.java)|Easy|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [Java](./Algorithms/Q066_PlusOne_holten.java)|Easy|
 |65|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| |Easy|
 |64|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| |Medium|
