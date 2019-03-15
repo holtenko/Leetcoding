@@ -33,6 +33,7 @@ Solutions to Leetcode with C++/Java
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./Algorithms/Q169_MajorityElement_holten.java)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](./Algorithms/Q168_ExcelSheetColumnTitle_holten.java)|Easy|
 |155|[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./Algorithms/Q155_MinStack_fricin.cpp)|Easy|
+|141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [Java](./Algorithms/141.linked-list-cycle.java)|Easy|
 |136|[Single Number](https://oj.leetcode.com/problems/single-number/)| [Java](./Algorithms/Q136_SingleNumber_holten.java)|Medium|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [Java](./Algorithms/Q125_ValidPalindrome_holten.java)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./Algorithms/Q116_PopulatingNextRightPointersInEachNode_Fricin.cpp)|Medium|
