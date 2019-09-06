@@ -9,6 +9,7 @@ Solutions to Leetcode with C++/Java
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Algorithms/Q1108_DefangingAnIPAddress_holten.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java](./Algorithms/Q728_SelfDividingNumbers_holten.java)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./Algorithms/Q709_ToLowerCase_holten.java)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) | [Java](./Algorithms/Q657_JudgeRouteCircle_holten.java)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Java](./Algorithms/Q657_JudgeRouteCircle_holten.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./Algorithms/Q389_FindtheDifference_holten.java)|Easy|
