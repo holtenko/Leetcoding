@@ -6,6 +6,7 @@ Solutions to Leetcode with C++/Java
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Algorithms/Q1108_DefangingAnIPAddress_holten.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java](./Algorithms/Q728_SelfDividingNumbers_holten.java)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) | [Java](./Algorithms/Q657_JudgeRouteCircle_holten.java)|Easy|
