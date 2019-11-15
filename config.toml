@@ -3,12 +3,11 @@ title = "Leetcoding"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "binario"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  name = "Holten KO"
+  bio = "Make your own way."
   avatar = "img/avatar.png"
 
 [Params]
@@ -20,33 +19,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Enable post meta fields in given order
   dateFormat = "January 02, 2006" # Change the format of dates
   colorTheme = "light-gray" # dark-green, dark-blue, dark-red, dark-violet
-  customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
   mainMenuAlignment = "right" # Align main menu (desktop version) to the right side
   authorbox = true # Show authorbox at bottom of single pages if true
-  toc = true # Enable Table of Contents for all site pages
   tocOpen = true # Open Table of Contents block. Optional
   mathjax = true # Enable MathJax for all site pages
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
   hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
-
-[Params.Featured]
-  previewOnly = false # Show only preview featured image
-
-# Web App Manifest settings
-# https://www.w3.org/TR/appmanifest/
-# https://developers.google.com/web/fundamentals/web-app-manifest/
-[Params.Manifest]
-  name = "Binario"
-  shortName = "Binario"
-  display = "browser"
-  startUrl = "/"
-  backgroundColor = "#ffffff"
-  themeColor = "#ffffff"
-  description = "Responsive card-based & code-light Hugo theme"
-  orientation = "portrait"
-  scope = "/"
 
 [Menus]
   [[Menus.main]]
@@ -55,13 +34,3 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   [[Menus.main]]
     name       = "Blog"
     url        = "/blog"
-
-[outputFormats]
-  [outputFormats.MANIFEST]
-    mediaType = "application/json"
-    baseName = "manifest"
-    isPlainText = false
-    notAlternative = true
-
-[outputs]
-  home = ["HTML", "RSS", "MANIFEST"]
