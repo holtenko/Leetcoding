@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q389_FindtheDifference_holten {
     public char findTheDifference(String s, String t) {
         char c = t.charAt(t.length() - 1);
         for (int i = 0; i < s.length(); i++) {

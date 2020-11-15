@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q191_Numberof1Bits_holten {
     // you need to treat n as an unsigned value
     public int hammingWeight(int n) {
 		int count = (n == 0) ? 0 : 1;

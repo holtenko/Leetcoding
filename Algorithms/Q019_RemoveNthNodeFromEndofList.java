@@ -3,6 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
+import DataStructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -11,7 +13,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class Q019_RemoveNthNodeFromEndofList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 		ListNode node1 = head;
 		ListNode node2 = head;

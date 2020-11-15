@@ -1,9 +1,11 @@
+import java.util.Stack;
+
 /**
 * Created by holten on 2016-07-07.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q020_ValidParentheses {
     public boolean isValid(String s) {
         if(s.length()%2==1) return false;
         Stack<Character> tmp = new Stack<>();

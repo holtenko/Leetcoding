@@ -1,10 +1,14 @@
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
 * Created by holten on 2016-07-18.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
-    public boolean isAnagram(String s, String t) {
+public class Q242_ValidAnagram_holten {
+    public boolean isAnagram1(String s, String t) {
         if (s.length() != t.length()) return false;
         int[] count = new int[26];
         for (char c : s.toCharArray()) count[c - 'a']++;
@@ -14,10 +18,8 @@ public class Solution {
         }
         return true;
     }
-}
 
-public class Solution {
-    public boolean isAnagram(String s, String t) {
+    public boolean isAnagram2(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
@@ -36,10 +38,8 @@ public class Solution {
         }
         return m.size() == 0;
     }
-}
 
-public class Solution {
-    public boolean isAnagram(String s, String t) {
+    public boolean isAnagram3(String s, String t) {
         if(s.length()!=t.length()) return false;
         char[] schar=s.toCharArray();
         char[] tchar=t.toCharArray();

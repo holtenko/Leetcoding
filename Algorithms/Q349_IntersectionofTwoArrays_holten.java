@@ -1,9 +1,11 @@
+import java.util.HashMap;
+
 /**
 * Created by holten on 2016-07-04.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q349_IntersectionofTwoArrays_holten {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashMap<Integer,Integer> num1Hashmap=new HashMap<>();
 		HashMap<Integer,Integer> resultHashmap=new HashMap<>();

@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q238_ProductofArrayExceptSelf_holten {
     public int[] productExceptSelf(int[] nums) {
         int length=nums.length;
         int[] result=new int[length];

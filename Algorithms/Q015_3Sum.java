@@ -1,9 +1,13 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
 * Created by holten on 2016-07-18.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q015_3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         //如果数组长度小于3直接返回

@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q038_CountandSay {
     public String countAndSay(int n) {
         if (n <= 1) return "1";
         String prev = "1";

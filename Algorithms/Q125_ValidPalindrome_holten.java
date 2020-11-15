@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q125_ValidPalindrome_holten {
     public boolean isPalindrome(String s) {
         s=s.toLowerCase();
         int i=0,j=s.length()-1;

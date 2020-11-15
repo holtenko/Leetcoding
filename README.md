@@ -19,7 +19,7 @@ Solutions to Leetcode with C++/Java
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./Algorithms/Q338_CountingBits_holten.java)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./Algorithms/Q328_OddEvenLinkedList_holten.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./Algorithms/Q326_PowerofThree_holten.java)|Easy|
-|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./Algorithms/Q292_NimGame_Fricin.cpp),[Java](./Algorithms/Q292_NimGame_holten.java)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [Java](./Algorithms/Q292_NimGame_holten.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Java](./Algorithms/Q283_MoveZeroes_holten.java)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Java](./Algorithms/Q260_SingleNumberIII_holten.java)|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](./Algorithms/Q258_AddDigits_holten.java)|Easy|
@@ -34,19 +34,16 @@ Solutions to Leetcode with C++/Java
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Java](./Algorithms/Q171_ExcelSheetColumnNumber_holten.java)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./Algorithms/Q169_MajorityElement_holten.java)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](./Algorithms/Q168_ExcelSheetColumnTitle_holten.java)|Easy|
-|155|[Min Stack](https://oj.leetcode.com/problems/min-stack/)| [C++](./Algorithms/Q155_MinStack_fricin.cpp)|Easy|
-|141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [Java](./Algorithms/141.linked-list-cycle.java)|Easy|
+|141|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [Java](Algorithms/Q141_LinkedListCycle.java)|Easy|
 |136|[Single Number](https://oj.leetcode.com/problems/single-number/)| [Java](./Algorithms/Q136_SingleNumber_holten.java)|Medium|
 |125|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [Java](./Algorithms/Q125_ValidPalindrome_holten.java)|Easy|
-|116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./Algorithms/Q116_PopulatingNextRightPointersInEachNode_Fricin.cpp)|Medium|
-|111|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./Algorithms/Q111_MinimumDepthofBinaryTree_fricin.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./Algorithms/Q104_MaximumDepthofBinaryTree_holten.java)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|
 |102|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Algorithms/Q102_BinaryTreeLevelOrderTraversal_holten.java)|Easy|
 |101|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| |Easy|
-|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [C++](./Algorithms/Q100_SameTree_fricin.cpp),[Java](./Algorithms/Q100_SameTree_holten.java)|Easy|
-|83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](./Algorithms/83.remove-duplicates-from-sorted-list.java)|Easy|
-|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](./Algorithms/70.climbing-stairs.java)|Easy|
+|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Java](./Algorithms/Q100_SameTree_holten.java)|Easy|
+|83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](Algorithms/Q083_RemoveDuplicatesFromSortedList.java)|Easy|
+|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](Algorithms/Q070_ClimbingStairs.java)|Easy|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [Java](./Algorithms/Q066_PlusOne_holten.java)|Easy|
 |65|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| |Easy|
 |64|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| |Medium|
@@ -60,7 +57,7 @@ Solutions to Leetcode with C++/Java
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| |Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| |Medium|
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| |Medium|
-|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./Algorithms/Q053_MaximumSubArray_tjt.java)[Java2](./Algorithms/53.maximum-subarray.java)|Easy|
+|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](Algorithms/Q053_MaximumSubarray.java)|Easy|
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| |Medium|
@@ -75,44 +72,44 @@ Solutions to Leetcode with C++/Java
 |41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| |Hard|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| |Medium|
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)||Medium|
-|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](./Algorithms/Q038_CountandSay_holten.java)|Easy|
+|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](Algorithms/Q038_CountandSay.java)|Easy|
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| |Hard|
-|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](./Algorithms/Q036_ValidSudoku_holten.java)|Easy|
-|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Java](./Algorithms/35.search-insert-position.java) |Easy|
+|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](Algorithms/Q036_ValidSudoku.java)|Easy|
+|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Java](Algorithms/Q35_SearchInsertPosition.java) |Easy|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| |Medium|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| |Hard|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| |Hard|
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| |Medium|
 |30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| |Hard|
-|29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [Java](./Algorithms/Q029_DivideTwoIntegers_holten.java)|Medium|
+|29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [Java](Algorithms/Q029_DivideTwoIntegers.java)|Medium|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Java](./Algorithms/Q028_ImplementstrStr()_holten.java)|Easy|
-|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](./Algorithms/Q027_RemoveElement_holten.java)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./Algorithms/Q026_RemoveDuplicatesfromSortedArray_holten.java)|Easy|
+|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](Algorithms/Q027_RemoveElement.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](Algorithms/Q026_RemoveDuplicatesfromSortedArray.java)|Easy|
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
-|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./Algorithms/Q024_SwapNodesinPairs_holten.java)|Medium|
+|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](Algorithms/Q024_SwapNodesinPairs.java)|Medium|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| |Medium|
-|21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Algorithms/Q021_MergeTwoSortedLists_holten.java)|Easy|
-|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](./Algorithms/Q020_ValidParentheses_holten.java)|Easy|
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./Algorithms/Q019_RemoveNthNodeFromEndofList_holten.java)|Easy|
+|21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](Algorithms/Q021_MergeTwoSortedLists.java)|Easy|
+|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](Algorithms/Q020_ValidParentheses.java)|Easy|
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](Algorithms/Q019_RemoveNthNodeFromEndofList.java)|Easy|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| |Medium|
-|17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./Algorithms/Q017_LetterCombinationsofaPhoneNumber_holten.java)|Medium|
+|17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](Algorithms/Q017_LetterCombinationsofaPhoneNumber.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| |Medium|
-|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [Java](./Algorithms/Q015_3Sum_holten.java)|Medium|
-|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [Java](./Algorithms/Q014_LongestCommonPrefix_holten.java)|Easy|
-|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](./Algorithms/Q013_RomantoInteger_holten.java)|Easy|
+|15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [Java](Algorithms/Q015_3Sum.java)|Medium|
+|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [Java](Algorithms/Q014_LongestCommonPrefix.java)|Easy|
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](Algorithms/Q013_RomantoInteger.java)|Easy|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| |Medium|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)||Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| |Hard|
-|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](./Algorithms/Q009_PalindromeNumber_holten.java)|Easy|
+|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](Algorithms/Q009_PalindromeNumber.java)|Easy|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](./Algorithms/Q008_StringtoInteger(atoi)_holten.java)|Easy|
-|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./Algorithms/Q007_ReverseInteger_holten.java)|Easy|
+|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](Algorithms/Q007_ReverseInteger.java)|Easy|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](./Algorithms/Q006_ZigZagConversion_holten)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)||Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./Algorithms/Q003_LongestSubstringWithoutRepeatingCharacters_holten.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](Algorithms/Q003_LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |Medium|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./Algorithms/Q001_TwoSum_fricin.cpp),[Java](./Algorithms/Q001_TwoSum_holten.java)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](Algorithms/Q001_TwoSum.java)|Medium|
 
 ### LeetCode Database
 | # | Title | Solution | Difficulty |

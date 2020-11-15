@@ -3,8 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
-    public void moveZeroes(int[] nums) {
+public class Q283_MoveZeroes_holten {
+    public void moveZeroes1(int[] nums) {
         int i=0,j=nums.length-1;
         while(i<j){
             if(nums[i]==0){
@@ -19,10 +19,8 @@ public class Solution {
             }
         }
     }
-}
 
-public class Solution {
-    public void moveZeroes(int[] nums) {
+    public void moveZeroes2(int[] nums) {
         int i=0,j=0;
         while(i<nums.length){
             if(nums[i]!=0){

@@ -3,6 +3,11 @@
 * Email: holten.ko@gmail.com
 */
 
+import DataStructure.TreeNode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -12,7 +17,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class Q102_BinaryTreeLevelOrderTraversal_holten {
     List<List<Integer>> returnList=new ArrayList<List<Integer>>();
     public List<List<Integer>> levelOrder(TreeNode root) {
         find(root,0);

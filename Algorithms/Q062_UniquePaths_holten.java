@@ -4,7 +4,7 @@
 */
 
 import java.math.*;
-public class Solution {
+public class Q062_UniquePaths_holten {
     public int uniquePaths(int m, int n) {
         int total=m+n-2;
         BigInteger result =factorial(total).divide((factorial(m-1).multiply(factorial(n-1))));

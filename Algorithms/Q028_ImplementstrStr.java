@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q028_ImplementstrStr {
     public int strStr(String haystack, String needle) {
         return haystack.indexOf(needle);
     }

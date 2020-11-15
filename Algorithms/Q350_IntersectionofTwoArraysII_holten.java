@@ -1,9 +1,13 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 /**
 * Created by holten on 2016-07-20.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q350_IntersectionofTwoArraysII_holten {
     public static int[] intersect(int[] nums1, int[] nums2) {
 		HashMap<Integer, Integer> num1Hashmap = new HashMap<>();
 		HashMap<Integer, Integer> resultHashmap = new HashMap<>();

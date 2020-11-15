@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q217_ContainsDuplicate_holten {
     public boolean containsDuplicate(int[] nums) {
         int min=Integer.MAX_VALUE;
 		int max=Integer.MIN_VALUE;

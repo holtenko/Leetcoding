@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q136_SingleNumber_holten {
     public int singleNumber(int[] nums) {
         int result =0;
         int index=0;

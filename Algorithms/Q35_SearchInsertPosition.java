@@ -46,7 +46,7 @@
  * 
  * 
  */
-class Solution {
+class Q35_SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         if (nums.length <= 0) {
             return 0;

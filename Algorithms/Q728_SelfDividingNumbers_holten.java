@@ -1,9 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by holten on 2018-02-13.
  * Email: holten.ko@foxmail.com
  */
 
-class Solution {
+class Q728_SelfDividingNumbers_holten {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> result = new ArrayList<>();
         for (int now = left; now <= right; now++) {

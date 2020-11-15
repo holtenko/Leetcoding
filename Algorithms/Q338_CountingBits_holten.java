@@ -3,8 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
-    public int[] countBits(int num) {
+public class Q338_CountingBits_holten {
+    public int[] countBits1(int num) {
 		int[] result = new int[num + 1];
 		int i = 1;
 		int step = 1;
@@ -17,10 +17,8 @@ public class Solution {
 		}
 		return result;
     }
-}
 
-public class Solution {
-    public int[] countBits(int num) {
+    public int[] countBits2(int num) {
 		int[] result = new int[num + 1];
 		int step = 1;
 		for (int i = 1; i < num + 1;) {

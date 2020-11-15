@@ -3,7 +3,7 @@
  * Email: holten.ko@gmail.com
  */
 
-public class Solution {
+public class Q657_JudgeRouteCircle_holten {
     public boolean judgeCircle(String moves) {
         int U = 0, D = 0, L = 0, R = 0;
         for (char c : moves.toCharArray()) {

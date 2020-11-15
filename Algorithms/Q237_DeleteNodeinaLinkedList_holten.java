@@ -3,6 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
+import DataStructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -11,7 +13,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class Q237_DeleteNodeinaLinkedList_holten {
     public void deleteNode(ListNode node) {
         node.val=node.next.val;
         node.next= node.next.next;

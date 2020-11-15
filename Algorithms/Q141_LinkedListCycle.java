@@ -64,11 +64,14 @@
  * Can you solve it using O(1) (i.e. constant) memory?
  * 
  */
+
+import DataStructure.ListNode;
+
 /**
  * Definition for singly-linked list. class ListNode { int val; ListNode next;
  * ListNode(int x) { val = x; next = null; } }
  */
-public class Solution {
+public class Q141_LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         if (head == null) {
             return false;

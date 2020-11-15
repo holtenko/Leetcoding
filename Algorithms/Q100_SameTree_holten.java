@@ -3,6 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
+import DataStructure.TreeNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -12,7 +14,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class Q100_SameTree_holten {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == q) return true;
         if ((p == null && q != null) || (p != null && q == null) || (p.val != q.val)) return false;

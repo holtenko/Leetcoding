@@ -1,9 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /**
 * Created by holten on 2016-07-07.
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q017_LetterCombinationsofaPhoneNumber {
     public List<String> letterCombinations(String digits) {
 		char[][] numMap = new char[10][];
 		numMap[2] = new char[] { 'a', 'b', 'c' };

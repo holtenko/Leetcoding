@@ -28,7 +28,7 @@
  * the divide and conquer approach, which is more subtle.
  * 
  */
-class Solution {
+class Q053_MaximumSubarray {
     public int maxSubArray(int[] nums) {
         if (nums.length == 1) {
             return nums[0];

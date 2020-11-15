@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q008_StringtoInteger {
     public int myAtoi(String str) {
 		int result = 0;
 		str = str.trim();

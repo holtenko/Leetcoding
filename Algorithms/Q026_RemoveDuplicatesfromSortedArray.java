@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q026_RemoveDuplicatesfromSortedArray {
     public int removeDuplicates(int[] nums) {
         if(nums.length<=1) return nums.length;
         int result=1;

@@ -3,8 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
-    public int[] singleNumber(int[] nums) {
+public class Q260_SingleNumberIII_holten {
+    public int[] singleNumber1(int[] nums) {
         int xor=0;
         for(int num:nums) xor^=num;//得到两个单独数的异或值
         xor&=-xor;//得到该异或值最右边的那个1的位置，并用这个位置区分这两个数，因为两个数不同，必然有一个位置一个为1，一个为0
@@ -18,11 +18,8 @@ public class Solution {
         }
         return result;
     }
-}
 
-
-public class Solution {
-    public int[] singleNumber(int[] nums) {
+    public int[] singleNumber2(int[] nums) {
         int xor=0;
         for(int num:nums) xor^=num;//得到两个单独数的异或值
         xor&=-xor;//得到该异或值最右边的那个1的位置，并用这个位置区分这两个数，因为两个数不同，必然有一个位置一个为1，一个为0

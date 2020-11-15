@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q013_RomantoInteger {
     public static int romanToInt(String s) {
 		int result=0;
 		int i=s.length()-1;

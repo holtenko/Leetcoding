@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q036_ValidSudoku {
     public boolean isValidSudoku(char[][] board) {
         int[] row=new int[9];
         int[] col=new int[9];

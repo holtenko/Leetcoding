@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q292_NimGame_holten {
     public boolean canWinNim(int n) {
         return !(n%4==0);
     }

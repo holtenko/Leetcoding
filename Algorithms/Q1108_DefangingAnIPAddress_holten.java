@@ -3,14 +3,12 @@
  * Email: holten.ko@foxmail.com
  */
 
-class Solution1 {
+class Q1108_DefangingAnIPAddress_holten {
     public String defangIPaddr(String address) {
         return address.replace(".", "[.]");
     }
-}
 
-class Solution2 {
-    public String defangIPaddr(String address) {
+    public String defangIPaddr1(String address) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < address.length(); i++) {
             char c = address.charAt(i);

@@ -3,8 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
-    public String longestCommonPrefix(String[] strs) {
+public class Q014_LongestCommonPrefix {
+    public String longestCommonPrefix1(String[] strs) {
         if (strs == null || strs.length < 1) return "";
         int shortLen = Integer.MAX_VALUE;
         for (String str : strs) {
@@ -17,10 +17,8 @@ public class Solution {
         }
         return strs[0].substring(0, shortLen);
     }
-}
 
-public class Solution {
-    public String longestCommonPrefix(String[] strs) {
+    public String longestCommonPrefix2(String[] strs) {
         if (strs == null || strs.length < 1) return "";
         int shortLen = Integer.MAX_VALUE;
         for (String str : strs) {

@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q027_RemoveElement {
     public int removeElement(int[] nums, int val) {
         int len=nums.length;
         int index=0;

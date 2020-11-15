@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q066_PlusOne_holten {
     public int[] plusOne(int[] digits) {
         int len = digits.length;
         for(int i=len-1;i>=0;i--){

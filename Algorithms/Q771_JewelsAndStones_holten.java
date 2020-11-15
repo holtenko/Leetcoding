@@ -1,9 +1,11 @@
+import java.util.HashSet;
+
 /**
  * Created by holten on 2018-02-12.
  * Email: holten.ko@foxmail.com
  */
 
-class Solution {
+class Q771_JewelsAndStones_holten {
     public int numJewelsInStones(String J, String S) {
         int result = 0;
         char[] jArray = J.toCharArray();

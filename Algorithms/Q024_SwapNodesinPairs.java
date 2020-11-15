@@ -3,6 +3,8 @@
 * Email: holten.ko@gmail.com
 */
 
+import DataStructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -11,7 +13,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class Q024_SwapNodesinPairs {
     public ListNode swapPairs(ListNode head) {
         if(head==null||head.next==null) return head;
         ListNode dummy=new ListNode(0);

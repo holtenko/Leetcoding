@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q344_ReverseString_holten {
     public String reverseString(String s) {
         if(s==null||s.isEmpty()) return "";
 		char[] chars = s.toCharArray();

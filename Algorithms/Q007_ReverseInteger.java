@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q007_ReverseInteger {
     public int reverse(int x) {
 		long result = 0;
 		while (x != 0) {

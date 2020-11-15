@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q171_ExcelSheetColumnNumber_holten {
     public int titleToNumber(String s) {
         char[] sChar=s.toCharArray();   
         int result=0;

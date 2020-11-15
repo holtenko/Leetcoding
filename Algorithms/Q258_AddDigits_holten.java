@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q258_AddDigits_holten {
     public int addDigits(int num) {
         if(num==0) return 0;
         int result;

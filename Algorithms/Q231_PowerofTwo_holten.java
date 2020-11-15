@@ -3,7 +3,7 @@
 * Email: holten.ko@gmail.com
 */
 
-public class Solution {
+public class Q231_PowerofTwo_holten {
     public boolean isPowerOfTwo(int n) {
         return (n>0 && (int)(Math.log10(n)/Math.log10(2))-Math.log10(n)/Math.log10(2)==0);
     }
