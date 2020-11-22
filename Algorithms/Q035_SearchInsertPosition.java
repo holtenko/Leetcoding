@@ -46,7 +46,7 @@
  * 
  * 
  */
-class Q35_SearchInsertPosition {
+class Q035_SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         if (nums.length <= 0) {
             return 0;
