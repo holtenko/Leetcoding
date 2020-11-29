@@ -5,9 +5,9 @@ import java.util.Arrays;
  * @date 2020-11-22
  * Email: holten.ko@gmail.com
  */
-public class Q34_FindFirstandLastPositionofElementinSortedArray {
+public class Q034_FindFirstandLastPositionofElementinSortedArray {
     public static void main(String[] args) {
-        Q34_FindFirstandLastPositionofElementinSortedArray q34 = new Q34_FindFirstandLastPositionofElementinSortedArray();
+        Q034_FindFirstandLastPositionofElementinSortedArray q34 = new Q034_FindFirstandLastPositionofElementinSortedArray();
         int[] nums = {5, 7, 7, 8, 8, 10};
         int target = 8;
         System.out.println(Arrays.toString(q34.searchRange(nums, target)));
