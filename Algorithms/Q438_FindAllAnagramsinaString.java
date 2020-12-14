@@ -12,10 +12,10 @@ import java.util.Map;
 public class Q438_FindAllAnagramsinaString {
 
     public static void main(String[] args) {
-        Q438_FindAllAnagramsinaString q567PermutationinString = new Q438_FindAllAnagramsinaString();
+        Q438_FindAllAnagramsinaString q438FindAllAnagramsinaString = new Q438_FindAllAnagramsinaString();
         String s = "abab";
         String p = "abc";
-        System.out.println(q567PermutationinString.findAnagrams(s, p));
+        System.out.println(q438FindAllAnagramsinaString.findAnagrams(s, p));
     }
 
     public List<Integer> findAnagrams(String s, String p) {
