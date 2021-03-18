@@ -16,4 +16,14 @@ public class Builders {
         }
         return root;
     }
+
+    public static ListNode buildList(int[] nums) {
+        ListNode head = new ListNode(nums[0]);
+        ListNode cur = head;
+        for (int i = 1; i < nums.length; i++) {
+            cur.next = new ListNode(nums[i]);
+            cur = cur.next;
+        }
+        return head;
+    }
 }
