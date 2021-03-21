@@ -1,7 +1,6 @@
 /**
  * @author holten
- * @email holten.ko@gmail.com
- * @date 2021-03-04
+ * @date 2021/3/21
  */
 
 class Q215_KthLargestElementinanArray {
@@ -12,63 +11,67 @@ class Q215_KthLargestElementinanArray {
     }
 
     public static int findKthLargest(int[] nums, int k) {
-        MinHeap minHeap = new MinHeap(k);
+        Heap heap = new Heap(k);
         for (int num : nums) {
-            minHeap.insert(num);
+            heap.add(num);
         }
-        return minHeap.getMin();
-    }
-}
-
-class MinHeap {
-    private final int[] heap;
-    private int count;
-    private final int size;
-
-    public MinHeap(int size) {
-        this.size = size;
-        this.heap = new int[size + 1];
-        this.count = 0;
+        return heap.getMin();
     }
 
-    public int getMin() {
-        return heap[1];
-    }
+    static class Heap {
+        private int[] heap;
+        private int size;
+        private int count;
 
-    public void insert(int num) {
-        if (count < size) {
-            int index = ++count;
-            heap[index] = num;
-            while (index / 2 > 0 && heap[index] < heap[index / 2]) {
-                swap(index, index / 2);
-                index = index / 2;
-            }
-        } else {
-            if (num <= heap[1]) {
-                return;
-            }
-            int index = 1;
-            heap[index] = num;
-            while (true) {
-                int minPos = index;
-                if (2 * index <= size && heap[index] > heap[2 * index]) {
-                    minPos = 2 * index;
+        public Heap(int size) {
+            this.size = size;
+            this.count = 0;
+            heap = new int[size + 1];
+        }
+
+        public void add(int n) {
+            int index;
+            if (count >= size) {
+                if (n < heap[1]) {
+                    return;
                 }
-                if (2 * index + 1 <= size && heap[minPos] > heap[2 * index + 1]) {
-                    minPos = 2 * index + 1;
+                index = 1;
+                heap[index] = n;
+                while (true) {
+                    int minIndex = index;
+                    if (2 * index <= size && heap[2 * index] < heap[index]) {
+                        minIndex = 2 * index;
+                    }
+                    if (2 * index + 1 <= size && heap[2 * index + 1] < heap[minIndex]) {
+                        minIndex = 2 * index + 1;
+                    }
+                    if (index == minIndex) {
+                        break;
+                    }
+                    swap(index, minIndex);
+                    index = minIndex;
                 }
-                if (minPos == index) {
-                    break;
+            } else {
+                index = count + 1;
+                heap[index] = n;
+                while (index > 1) {
+                    if (heap[index] < heap[index / 2]) {
+                        swap(index, index / 2);
+                    }
+                    index /= 2;
                 }
-                swap(index, minPos);
-                index = minPos;
+                count++;
             }
         }
-    }
 
-    private void swap(int from, int to) {
-        int temp = heap[from];
-        heap[from] = heap[to];
-        heap[to] = temp;
+        public int getMin() {
+            return heap[1];
+        }
+
+        private void swap(int a, int b) {
+            int temp = heap[a];
+            heap[a] = heap[b];
+            heap[b] = temp;
+        }
     }
 }
