@@ -1,46 +1,40 @@
+import DataStructure.Builders;
 import DataStructure.ListNode;
 
 /**
  * @author holten
- * @date 2021/3/8
+ * @date 2021/3/24
  */
 class Q82_RemoveDuplicatesFromSortedListII {
     public static void main(String[] args) {
-        ListNode head = new ListNode(1);
-        ListNode node1 = new ListNode(1);
-        ListNode node2 = new ListNode(2);
-        ListNode node3 = new ListNode(3);
-        ListNode node4 = new ListNode(3);
-        ListNode node5 = new ListNode(4);
-        ListNode node6 = new ListNode(5);
-        head.next = node1;
-        node1.next = node2;
-        node2.next = node3;
-        node3.next = node4;
-        node4.next = node5;
-        node5.next = node6;
-        System.out.println(deleteDuplicates(head).val);
+        int[] nums = {1, 2, 2};
+        ListNode head = Builders.buildList(nums);
+        System.out.println(deleteDuplicates(head));
     }
 
     public static ListNode deleteDuplicates(ListNode head) {
-        ListNode beforeHead = new ListNode(0);
-        beforeHead.next = head;
-        ListNode preNode = beforeHead;
-        ListNode currentNode = head;
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode preHead = new ListNode(head.val - 1);
+        preHead.next = head;
+        ListNode pre = preHead;
+        ListNode cur = head;
         boolean isDup = false;
-        while (currentNode != null) {
-            if (currentNode.next != null && currentNode.val == currentNode.next.val) {
+        while (cur != null) {
+            if (cur.next != null && cur.val == cur.next.val) {
                 isDup = true;
             } else {
                 if (isDup) {
-                    preNode.next = currentNode.next;
+                    pre.next = cur.next;
                 } else {
-                    preNode = currentNode;
+                    pre = cur;
                 }
                 isDup = false;
             }
-            currentNode = currentNode.next;
+            cur = cur.next;
         }
-        return beforeHead.next;
+        return preHead.next;
     }
+
 }
