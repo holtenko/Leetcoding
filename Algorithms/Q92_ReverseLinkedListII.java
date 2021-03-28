@@ -1,58 +1,51 @@
+import DataStructure.Builders;
 import DataStructure.ListNode;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Queue;
-import java.util.Set;
 import java.util.Stack;
 
-import static DataStructure.Builders.buildList;
+/**
+ * @author holten
+ * @date 2016-06-29
+ * Email: holten.ko@gmail.com
+ */
 
 public class Q92_ReverseLinkedListII {
     public static void main(String[] args) {
-        int[] list = {1, 2, 3, 4, 5};
-        ListNode head = buildList(list);
-        ListNode result = reverseBetween(head, 2, 2);
-        while (result != null) {
-            System.out.println(result.val);
-            result = result.next;
-        }
+        int[] nums = {1, 2, 3, 4, 5};
+        ListNode head = Builders.buildList(nums);
+        System.out.println(reverseBetween(head, 1, 1));
     }
 
     public static ListNode reverseBetween(ListNode head, int left, int right) {
         if (left == right) {
             return head;
         }
-        int pos = 0;
+        int index = 1;
+        Stack<ListNode> stack = new Stack<>();
         ListNode preHead = new ListNode(0);
         preHead.next = head;
+        ListNode cur = head;
         ListNode pre = preHead;
-        ListNode next = preHead;
-        ListNode cur = preHead;
-        Stack<ListNode> stack = new Stack<>();
-
+        ListNode tail = null;
         while (cur != null) {
-            if (pos + 1 == left) {
-                pre = cur;
-            }
-            if (pos == right) {
-                next = cur.next;
-            }
-            if (pos >= left && pos <= right) {
+            if (index >= left && index <= right) {
                 stack.push(cur);
+            } else if (index < left) {
+                pre = pre.next;
+            } else if (index == right + 1) {
+                tail = cur;
             }
             cur = cur.next;
-            pos++;
+            index++;
         }
+
         while (!stack.isEmpty()) {
             pre.next = stack.pop();
             pre = pre.next;
         }
-        pre.next = next;
+        if (pre != null) {
+            pre.next = tail;
+        }
         return preHead.next;
     }
 }

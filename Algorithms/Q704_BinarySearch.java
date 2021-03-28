@@ -1,28 +1,32 @@
+import DataStructure.Builders;
+import DataStructure.ListNode;
+
+import java.util.Stack;
 
 /**
  * @author holten
- * @date 2020-11-22
+ * @date 2016-06-29
  * Email: holten.ko@gmail.com
  */
+
 public class Q704_BinarySearch {
     public static void main(String[] args) {
-        Q704_BinarySearch q704BinarySearch = new Q704_BinarySearch();
-        int[] nums = {-1, 0, 3, 5, 9, 12};
-        int target = 3;
-        System.out.println(q704BinarySearch.search(nums, target));
+        int[] nums = {1, 2, 3, 4, 5};
+        System.out.println(search(nums, 0));
     }
 
-    public int search(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
+    public static int search(int[] nums, int target) {
+        int lo = 0;
+        int hi = nums.length - 1;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            int num = nums[mid];
+            if (num == target) {
                 return mid;
-            } else if (nums[mid] > target) {
-                right = mid;
+            } else if (num > target) {
+                hi = mid - 1;
             } else {
-                left = mid + 1;
+                lo = mid + 1;
             }
         }
         return -1;
