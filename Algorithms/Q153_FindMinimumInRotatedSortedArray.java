@@ -1,10 +1,11 @@
 /**
  * @author holten
- * @date 2021/4/8
+ * @date 2021/4/25
  */
-public class Q153_FindMinimumInRotatedSortedArray {
+class Q153_FindMinimumInRotatedSortedArray {
+
     public static void main(String[] args) {
-        int[] nums = {2,1};
+        int[] nums = {1};
         System.out.println(findMin(nums));
     }
 
