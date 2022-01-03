@@ -5,7 +5,7 @@ Solutions to Leetcode with C++/Java
 
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+|---| ----- | :--------: | :----------: |
 |1185|[Day of the Week.md](https://leetcode-cn.com/problems/day-of-the-week/) | [Solution](./solutions/Q1185_DayOfTheWeek.md)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Algorithms/Q1108_DefangingAnIPAddress_holten.java)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
