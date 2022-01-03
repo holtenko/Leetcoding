@@ -6,7 +6,7 @@ Solutions to Leetcode with C++/Java
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | :--------: | :----------: |
-|1185|[Day of the Week.md](https://leetcode-cn.com/problems/day-of-the-week/) | [Solution](./solutions/Q1185_DayOfTheWeek.md)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
+|1185|[Day of the Week.md](https://leetcode-cn.com/problems/day-of-the-week/) | [Solution](./solutions/Q1185_DayOfTheWeek.md) |![Easy](https://img.shields.io/badge/Easy-01af9b)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Algorithms/Q1108_DefangingAnIPAddress_holten.java)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Algorithms/Q771_JewelsAndStones_holten.java)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java](./Algorithms/Q728_SelfDividingNumbers_holten.java)|![Easy](https://img.shields.io/badge/Easy-01af9b)|
@@ -110,7 +110,7 @@ Solutions to Leetcode with C++/Java
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| |![Hard](https://img.shields.io/badge/Hard-red)|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](Algorithms/Q003_LongestSubstringWithoutRepeatingCharacters.java)|![Medium](https://img.shields.io/badge/Medium-febc27)|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |![Medium](https://img.shields.io/badge/Medium-febc27)|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](Algorithms/Q001_TwoSum.java)|![Medium](https://img.shields.io/badge/Medium-febc27)|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Solution](./solutions/Q0001_TwoSum.md) |![Easy](https://img.shields.io/badge/Easy-01af9b)|
 
 ### LeetCode Database
 | # | Title | Solution | Difficulty |

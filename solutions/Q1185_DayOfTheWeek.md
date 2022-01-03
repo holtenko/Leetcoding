@@ -1,6 +1,6 @@
-**难度:** 简单
+![Easy](https://img.shields.io/badge/Difficulty-Easy-01af9b)
 
-**标签:** 数学
+![Tag](https://img.shields.io/badge/Tag-数学-1d7dfa)
 
 ###### [1185. 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/)
 
