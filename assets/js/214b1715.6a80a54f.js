@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8678],{3118:a=>{a.exports=JSON.parse('{"title":"BackTracking","slug":"/category/backtracking","permalink":"/docs/category/backtracking","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/hashtable/num1"},"next":{"title":"Dashboard","permalink":"/docs/sliding-window/num1"}}}')}}]);
