@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: "Leetcode",
-                to: "/docs",
+                to: "/docs/dashboard",
               },
             ],
           },

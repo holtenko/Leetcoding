@@ -6,7 +6,7 @@
 export default {
   "title": "Holten",
   "tagline": "Dinosaurs are cool",
-  "url": "http://localhost",
+  "url": "http://holtenko.github.io/Leetcoding",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
@@ -73,7 +73,7 @@ export default {
           "items": [
             {
               "label": "Leetcode",
-              "to": "/docs"
+              "to": "/docs/dashboard"
             }
           ]
         },
