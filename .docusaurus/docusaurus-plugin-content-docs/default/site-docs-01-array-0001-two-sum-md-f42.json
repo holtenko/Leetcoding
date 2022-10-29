@@ -1,0 +1,29 @@
+{
+  "unversionedId": "array/two-sum",
+  "id": "array/two-sum",
+  "title": "[1. Two Sum](https://leetcode.cn/problems/two-sum/)",
+  "description": "Description",
+  "source": "@site/docs/01-array/0001-two-sum.md",
+  "sourceDirName": "01-array",
+  "slug": "/array/two-sum",
+  "permalink": "/docs/array/two-sum",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-array/0001-two-sum.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Two Sum",
+    "sidebar_position": 1,
+    "toc_min_heading_level": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array",
+    "permalink": "/docs/category/array"
+  },
+  "next": {
+    "title": "String",
+    "permalink": "/docs/category/string"
+  }
+}

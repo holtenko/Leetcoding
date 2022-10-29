@@ -1,0 +1,15 @@
+{
+  "title": "DFS",
+  "slug": "/category/dfs",
+  "permalink": "/docs/category/dfs",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/BFS/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/DFS/num1"
+    }
+  }
+}

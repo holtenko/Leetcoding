@@ -1,0 +1,15 @@
+{
+  "title": "Stack",
+  "slug": "/category/stack",
+  "permalink": "/docs/category/stack",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/segmant-tree/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/stack/num1"
+    }
+  }
+}

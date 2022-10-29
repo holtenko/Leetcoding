@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-7",
+  "permalink": "/docs/category/sort-7",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/segmant-tree/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/stack/num1"
+    }
+  }
+}

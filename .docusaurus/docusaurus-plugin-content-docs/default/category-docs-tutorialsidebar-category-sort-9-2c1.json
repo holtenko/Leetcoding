@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-9",
+  "permalink": "/docs/category/sort-9",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/hashtable/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/sliding-window/num1"
+    }
+  }
+}

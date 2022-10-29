@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-5",
+  "permalink": "/docs/category/sort-5",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/binary-indexed-tree/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/linked-list/num1"
+    }
+  }
+}

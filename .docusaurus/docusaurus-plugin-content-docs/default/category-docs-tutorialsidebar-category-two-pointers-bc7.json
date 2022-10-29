@@ -1,0 +1,15 @@
+{
+  "title": "Two Pointers",
+  "slug": "/category/two-pointers",
+  "permalink": "/docs/category/two-pointers",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/backtracking/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/two-pointers/num1"
+    }
+  }
+}

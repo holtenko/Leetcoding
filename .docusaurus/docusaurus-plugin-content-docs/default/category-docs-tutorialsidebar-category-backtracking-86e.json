@@ -1,0 +1,15 @@
+{
+  "title": "BackTracking",
+  "slug": "/category/backtracking",
+  "permalink": "/docs/category/backtracking",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/hashtable/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/sliding-window/num1"
+    }
+  }
+}

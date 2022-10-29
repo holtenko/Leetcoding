@@ -1,0 +1,15 @@
+{
+  "title": "Segmant Tree",
+  "slug": "/category/segmant-tree",
+  "permalink": "/docs/category/segmant-tree",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/linked-list/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/segmant-tree/num1"
+    }
+  }
+}

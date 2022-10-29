@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-12",
+  "permalink": "/docs/category/sort-12",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/BFS/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/DFS/num1"
+    }
+  }
+}

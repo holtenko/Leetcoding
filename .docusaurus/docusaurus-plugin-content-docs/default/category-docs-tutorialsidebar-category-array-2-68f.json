@@ -1,0 +1,15 @@
+{
+  "title": "Array",
+  "slug": "/category/array-2",
+  "permalink": "/docs/category/array-2",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/array copy/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/string/num1"
+    }
+  }
+}

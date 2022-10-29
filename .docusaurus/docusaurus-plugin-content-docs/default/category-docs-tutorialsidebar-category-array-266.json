@@ -1,0 +1,15 @@
+{
+  "title": "Array",
+  "slug": "/category/array",
+  "permalink": "/docs/category/array",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/dashboard"
+    },
+    "next": {
+      "title": "Two Sum",
+      "permalink": "/docs/array/two-sum"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort",
+  "permalink": "/docs/category/sort",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/string/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/sort/num1"
+    }
+  }
+}

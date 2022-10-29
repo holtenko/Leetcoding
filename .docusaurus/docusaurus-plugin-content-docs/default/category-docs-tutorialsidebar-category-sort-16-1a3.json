@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-16",
+  "permalink": "/docs/category/sort-16",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/bit-manipulation/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/math/num1"
+    }
+  }
+}

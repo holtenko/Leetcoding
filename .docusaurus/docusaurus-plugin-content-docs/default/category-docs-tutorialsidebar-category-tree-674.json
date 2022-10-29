@@ -1,0 +1,15 @@
+{
+  "title": "Tree",
+  "slug": "/category/tree",
+  "permalink": "/docs/category/tree",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/two-pointers/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/tree/num1"
+    }
+  }
+}

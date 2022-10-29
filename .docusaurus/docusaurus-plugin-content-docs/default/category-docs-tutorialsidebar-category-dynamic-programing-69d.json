@@ -1,0 +1,15 @@
+{
+  "title": "Dynamic Programing",
+  "slug": "/category/dynamic-programing",
+  "permalink": "/docs/category/dynamic-programing",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/DFS/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/dynamic-programing/num1"
+    }
+  }
+}

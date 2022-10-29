@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort-15",
+  "permalink": "/docs/category/sort-15",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/docs/union-find/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/docs/bit-manipulation/num1"
+    }
+  }
+}
