@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6429],{9377:e=>{e.exports=JSON.parse('{"title":"Segmant Tree","slug":"/category/segmant-tree","permalink":"/docs/category/segmant-tree","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/linked-list/num1"},"next":{"title":"Dashboard","permalink":"/docs/segmant-tree/num1"}}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6899],{9374:e=>{e.exports=JSON.parse('{"title":"Two Pointers","slug":"/category/two-pointers","permalink":"/docs/category/two-pointers","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/backtracking/num1"},"next":{"title":"Dashboard","permalink":"/docs/two-pointers/num1"}}}')}}]);
