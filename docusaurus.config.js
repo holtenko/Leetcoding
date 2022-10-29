@@ -9,7 +9,7 @@ const config = {
   title: "Holten",
   tagline: "Dinosaurs are cool",
   url: "http://holtenko.github.io/Leetcoding",
-  baseUrl: "/",
+  baseUrl: "/Leetcoding/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
