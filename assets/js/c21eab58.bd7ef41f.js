@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8378],{1428:e=>{e.exports=JSON.parse('{"title":"Sort","slug":"/category/sort-1","permalink":"/docs/category/sort-1","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/binary-indexed-tree/num1"},"next":{"title":"Dashboard","permalink":"/docs/backtracking/num1"}}}')}}]);
