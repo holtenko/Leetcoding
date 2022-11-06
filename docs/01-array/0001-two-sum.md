@@ -4,7 +4,9 @@ sidebar_position: 1
 toc_min_heading_level: 2
 ---
 
-# [1. Two Sum](https://leetcode.cn/problems/two-sum/)
+# 1. Two Sum
+
+[Link](https://leetcode.cn/problems/two-sum/)
 
 ## Description
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -41,10 +43,19 @@ Output: [0,1]
 
 ## Solution
 ### Java
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
+        Map<Integer, Integer> numIndexMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int num1 = nums[i];
+            int num2 = target - num1;
+            if (numIndexMap.containsKey(num2)) {
+                return new int[] { i, numIndexMap.get(num2) };
+            }
+            numIndexMap.put(num1, i);
+        }
+        return new int[1];
     }
 }
 ```
