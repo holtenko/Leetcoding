@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[155],{5060:n=>{n.exports=JSON.parse('{"title":"Union Find","slug":"/category/union-find","permalink":"/docs/category/union-find","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/dynamic-programing/num1"},"next":{"title":"Dashboard","permalink":"/docs/union-find/num1"}}}')}}]);
