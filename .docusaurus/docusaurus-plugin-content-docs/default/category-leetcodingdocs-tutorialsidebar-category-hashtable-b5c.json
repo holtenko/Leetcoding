@@ -1,0 +1,15 @@
+{
+  "title": "HashTable",
+  "slug": "/category/hashtable",
+  "permalink": "/Leetcoding/docs/category/hashtable",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/stack/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/hashtable/num1"
+    }
+  }
+}

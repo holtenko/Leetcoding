@@ -6,7 +6,7 @@
   "source": "@site/docs/10-stack/num1.md",
   "sourceDirName": "10-stack",
   "slug": "/stack/num1",
-  "permalink": "/docs/stack/num1",
+  "permalink": "/Leetcoding/docs/stack/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10-stack/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Stack",
-    "permalink": "/docs/category/stack"
+    "permalink": "/Leetcoding/docs/category/stack"
   },
   "next": {
     "title": "HashTable",
-    "permalink": "/docs/category/hashtable"
+    "permalink": "/Leetcoding/docs/category/hashtable"
   }
 }

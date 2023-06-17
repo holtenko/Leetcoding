@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Dashboard",
-        "href": "/docs/dashboard",
+        "href": "/Leetcoding/docs/dashboard",
         "docId": "dashboard"
       },
       {
@@ -24,11 +24,11 @@
           {
             "type": "link",
             "label": "Two Sum",
-            "href": "/docs/array/two-sum",
+            "href": "/Leetcoding/docs/array/two-sum",
             "docId": "array/two-sum"
           }
         ],
-        "href": "/docs/category/array"
+        "href": "/Leetcoding/docs/category/array"
       },
       {
         "type": "category",
@@ -38,12 +38,12 @@
         "items": [
           {
             "type": "link",
-            "label": "Dashboard",
-            "href": "/docs/string/num1",
-            "docId": "string/num1"
+            "label": "1768. Merge Strings Alternately",
+            "href": "/Leetcoding/docs/string/merge-strings-alternately",
+            "docId": "string/merge-strings-alternately"
           }
         ],
-        "href": "/docs/category/string"
+        "href": "/Leetcoding/docs/category/string"
       },
       {
         "type": "category",
@@ -54,11 +54,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/sort/num1",
+            "href": "/Leetcoding/docs/sort/num1",
             "docId": "sort/num1"
           }
         ],
-        "href": "/docs/category/sort"
+        "href": "/Leetcoding/docs/category/sort"
       },
       {
         "type": "category",
@@ -69,11 +69,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/binary-indexed-tree/num1",
+            "href": "/Leetcoding/docs/binary-indexed-tree/num1",
             "docId": "binary-indexed-tree/num1"
           }
         ],
-        "href": "/docs/category/binary-indexed-tree"
+        "href": "/Leetcoding/docs/category/binary-indexed-tree"
       },
       {
         "type": "category",
@@ -84,11 +84,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/backtracking/num1",
+            "href": "/Leetcoding/docs/backtracking/num1",
             "docId": "backtracking/num1"
           }
         ],
-        "href": "/docs/category/sort-1"
+        "href": "/Leetcoding/docs/category/sort-1"
       },
       {
         "type": "category",
@@ -99,11 +99,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/two-pointers/num1",
+            "href": "/Leetcoding/docs/two-pointers/num1",
             "docId": "two-pointers/num1"
           }
         ],
-        "href": "/docs/category/two-pointers"
+        "href": "/Leetcoding/docs/category/two-pointers"
       },
       {
         "type": "category",
@@ -114,11 +114,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/tree/num1",
+            "href": "/Leetcoding/docs/tree/num1",
             "docId": "tree/num1"
           }
         ],
-        "href": "/docs/category/tree"
+        "href": "/Leetcoding/docs/category/tree"
       },
       {
         "type": "category",
@@ -129,11 +129,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/binary-search/num1",
+            "href": "/Leetcoding/docs/binary-search/num1",
             "docId": "binary-search/num1"
           }
         ],
-        "href": "/docs/category/binary-search"
+        "href": "/Leetcoding/docs/category/binary-search"
       },
       {
         "type": "category",
@@ -144,11 +144,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/linked-list/num1",
+            "href": "/Leetcoding/docs/linked-list/num1",
             "docId": "linked-list/num1"
           }
         ],
-        "href": "/docs/category/linked-list"
+        "href": "/Leetcoding/docs/category/linked-list"
       },
       {
         "type": "category",
@@ -159,11 +159,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/segmant-tree/num1",
+            "href": "/Leetcoding/docs/segmant-tree/num1",
             "docId": "segmant-tree/num1"
           }
         ],
-        "href": "/docs/category/segmant-tree"
+        "href": "/Leetcoding/docs/category/segmant-tree"
       },
       {
         "type": "category",
@@ -174,11 +174,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/stack/num1",
+            "href": "/Leetcoding/docs/stack/num1",
             "docId": "stack/num1"
           }
         ],
-        "href": "/docs/category/stack"
+        "href": "/Leetcoding/docs/category/stack"
       },
       {
         "type": "category",
@@ -189,11 +189,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/hashtable/num1",
+            "href": "/Leetcoding/docs/hashtable/num1",
             "docId": "hashtable/num1"
           }
         ],
-        "href": "/docs/category/hashtable"
+        "href": "/Leetcoding/docs/category/hashtable"
       },
       {
         "type": "category",
@@ -204,11 +204,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/sliding-window/num1",
+            "href": "/Leetcoding/docs/sliding-window/num1",
             "docId": "sliding-window/num1"
           }
         ],
-        "href": "/docs/category/backtracking"
+        "href": "/Leetcoding/docs/category/backtracking"
       },
       {
         "type": "category",
@@ -219,11 +219,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/BFS/num1",
+            "href": "/Leetcoding/docs/BFS/num1",
             "docId": "BFS/num1"
           }
         ],
-        "href": "/docs/category/bfs"
+        "href": "/Leetcoding/docs/category/bfs"
       },
       {
         "type": "category",
@@ -234,11 +234,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/DFS/num1",
+            "href": "/Leetcoding/docs/DFS/num1",
             "docId": "DFS/num1"
           }
         ],
-        "href": "/docs/category/dfs"
+        "href": "/Leetcoding/docs/category/dfs"
       },
       {
         "type": "category",
@@ -249,11 +249,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/dynamic-programing/num1",
+            "href": "/Leetcoding/docs/dynamic-programing/num1",
             "docId": "dynamic-programing/num1"
           }
         ],
-        "href": "/docs/category/dynamic-programing"
+        "href": "/Leetcoding/docs/category/dynamic-programing"
       },
       {
         "type": "category",
@@ -264,11 +264,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/union-find/num1",
+            "href": "/Leetcoding/docs/union-find/num1",
             "docId": "union-find/num1"
           }
         ],
-        "href": "/docs/category/union-find"
+        "href": "/Leetcoding/docs/category/union-find"
       },
       {
         "type": "category",
@@ -279,11 +279,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/bit-manipulation/num1",
+            "href": "/Leetcoding/docs/bit-manipulation/num1",
             "docId": "bit-manipulation/num1"
           }
         ],
-        "href": "/docs/category/bit-manipulation"
+        "href": "/Leetcoding/docs/category/bit-manipulation"
       },
       {
         "type": "category",
@@ -294,11 +294,11 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/docs/math/num1",
+            "href": "/Leetcoding/docs/math/num1",
             "docId": "math/num1"
           }
         ],
-        "href": "/docs/category/math"
+        "href": "/Leetcoding/docs/category/math"
       }
     ]
   },
@@ -399,10 +399,10 @@
       "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
-    "string/num1": {
-      "id": "string/num1",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "string/merge-strings-alternately": {
+      "id": "string/merge-strings-alternately",
+      "title": "merge-strings-alternately",
+      "description": "题目描述",
       "sidebar": "tutorialSidebar"
     },
     "tree/num1": {

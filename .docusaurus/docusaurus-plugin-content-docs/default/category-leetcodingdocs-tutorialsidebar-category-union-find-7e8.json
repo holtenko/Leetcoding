@@ -1,0 +1,15 @@
+{
+  "title": "Union Find",
+  "slug": "/category/union-find",
+  "permalink": "/Leetcoding/docs/category/union-find",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/dynamic-programing/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/union-find/num1"
+    }
+  }
+}

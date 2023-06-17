@@ -6,7 +6,7 @@
   "source": "@site/docs/05-tree/num1.md",
   "sourceDirName": "05-tree",
   "slug": "/tree/num1",
-  "permalink": "/docs/tree/num1",
+  "permalink": "/Leetcoding/docs/tree/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05-tree/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tree",
-    "permalink": "/docs/category/tree"
+    "permalink": "/Leetcoding/docs/category/tree"
   },
   "next": {
     "title": "Binary Search",
-    "permalink": "/docs/category/binary-search"
+    "permalink": "/Leetcoding/docs/category/binary-search"
   }
 }

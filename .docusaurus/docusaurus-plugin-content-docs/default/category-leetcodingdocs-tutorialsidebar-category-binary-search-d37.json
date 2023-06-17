@@ -1,0 +1,15 @@
+{
+  "title": "Binary Search",
+  "slug": "/category/binary-search",
+  "permalink": "/Leetcoding/docs/category/binary-search",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/tree/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/binary-search/num1"
+    }
+  }
+}

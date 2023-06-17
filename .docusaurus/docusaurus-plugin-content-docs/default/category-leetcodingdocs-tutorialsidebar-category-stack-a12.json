@@ -1,0 +1,15 @@
+{
+  "title": "Stack",
+  "slug": "/category/stack",
+  "permalink": "/Leetcoding/docs/category/stack",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/segmant-tree/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/stack/num1"
+    }
+  }
+}

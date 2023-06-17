@@ -1,0 +1,15 @@
+{
+  "title": "Sort",
+  "slug": "/category/sort",
+  "permalink": "/Leetcoding/docs/category/sort",
+  "navigation": {
+    "previous": {
+      "title": "1768. Merge Strings Alternately",
+      "permalink": "/Leetcoding/docs/string/merge-strings-alternately"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/sort/num1"
+    }
+  }
+}

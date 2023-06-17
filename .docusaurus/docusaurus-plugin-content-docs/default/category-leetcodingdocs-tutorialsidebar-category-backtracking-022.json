@@ -1,0 +1,15 @@
+{
+  "title": "BackTracking",
+  "slug": "/category/backtracking",
+  "permalink": "/Leetcoding/docs/category/backtracking",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/hashtable/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/sliding-window/num1"
+    }
+  }
+}

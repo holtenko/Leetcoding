@@ -3,343 +3,343 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'c1d'),
+    path: '/Leetcoding/__docusaurus/debug',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug', 'fea'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'ad1'),
+    path: '/Leetcoding/__docusaurus/debug/config',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/config', 'a11'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '2f3'),
+    path: '/Leetcoding/__docusaurus/debug/content',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/content', '0df'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '70d'),
+    path: '/Leetcoding/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/globalData', '2b4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'f70'),
+    path: '/Leetcoding/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/metadata', '63f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '41f'),
+    path: '/Leetcoding/__docusaurus/debug/registry',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/registry', '425'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'da0'),
+    path: '/Leetcoding/__docusaurus/debug/routes',
+    component: ComponentCreator('/Leetcoding/__docusaurus/debug/routes', 'c4e'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '820'),
+    path: '/Leetcoding/blog',
+    component: ComponentCreator('/Leetcoding/blog', 'ef2'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '614'),
+    path: '/Leetcoding/blog/archive',
+    component: ComponentCreator('/Leetcoding/blog/archive', 'd40'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'b73'),
+    path: '/Leetcoding/blog/first-blog-post',
+    component: ComponentCreator('/Leetcoding/blog/first-blog-post', '93e'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '3a3'),
+    path: '/Leetcoding/blog/long-blog-post',
+    component: ComponentCreator('/Leetcoding/blog/long-blog-post', 'aff'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'c63'),
+    path: '/Leetcoding/blog/mdx-blog-post',
+    component: ComponentCreator('/Leetcoding/blog/mdx-blog-post', '7a3'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '37e'),
+    path: '/Leetcoding/blog/tags',
+    component: ComponentCreator('/Leetcoding/blog/tags', '16a'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '788'),
+    path: '/Leetcoding/blog/tags/docusaurus',
+    component: ComponentCreator('/Leetcoding/blog/tags/docusaurus', '589'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'bd5'),
+    path: '/Leetcoding/blog/tags/facebook',
+    component: ComponentCreator('/Leetcoding/blog/tags/facebook', 'bed'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '562'),
+    path: '/Leetcoding/blog/tags/hello',
+    component: ComponentCreator('/Leetcoding/blog/tags/hello', '860'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '59c'),
+    path: '/Leetcoding/blog/tags/hola',
+    component: ComponentCreator('/Leetcoding/blog/tags/hola', '4f9'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'c73'),
+    path: '/Leetcoding/blog/welcome',
+    component: ComponentCreator('/Leetcoding/blog/welcome', 'c09'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'd5a'),
+    path: '/Leetcoding/markdown-page',
+    component: ComponentCreator('/Leetcoding/markdown-page', 'b78'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '187'),
+    path: '/Leetcoding/docs',
+    component: ComponentCreator('/Leetcoding/docs', 'db5'),
     routes: [
       {
-        path: '/docs/array/two-sum',
-        component: ComponentCreator('/docs/array/two-sum', '3e1'),
+        path: '/Leetcoding/docs/array/two-sum',
+        component: ComponentCreator('/Leetcoding/docs/array/two-sum', '951'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/backtracking/num1',
-        component: ComponentCreator('/docs/backtracking/num1', '943'),
+        path: '/Leetcoding/docs/backtracking/num1',
+        component: ComponentCreator('/Leetcoding/docs/backtracking/num1', 'fff'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/BFS/num1',
-        component: ComponentCreator('/docs/BFS/num1', '16a'),
+        path: '/Leetcoding/docs/BFS/num1',
+        component: ComponentCreator('/Leetcoding/docs/BFS/num1', '795'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/binary-indexed-tree/num1',
-        component: ComponentCreator('/docs/binary-indexed-tree/num1', '855'),
+        path: '/Leetcoding/docs/binary-indexed-tree/num1',
+        component: ComponentCreator('/Leetcoding/docs/binary-indexed-tree/num1', '0af'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/binary-search/num1',
-        component: ComponentCreator('/docs/binary-search/num1', '822'),
+        path: '/Leetcoding/docs/binary-search/num1',
+        component: ComponentCreator('/Leetcoding/docs/binary-search/num1', '831'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bit-manipulation/num1',
-        component: ComponentCreator('/docs/bit-manipulation/num1', 'fea'),
+        path: '/Leetcoding/docs/bit-manipulation/num1',
+        component: ComponentCreator('/Leetcoding/docs/bit-manipulation/num1', 'c7b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/array',
-        component: ComponentCreator('/docs/category/array', '819'),
+        path: '/Leetcoding/docs/category/array',
+        component: ComponentCreator('/Leetcoding/docs/category/array', '123'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/backtracking',
-        component: ComponentCreator('/docs/category/backtracking', '6e0'),
+        path: '/Leetcoding/docs/category/backtracking',
+        component: ComponentCreator('/Leetcoding/docs/category/backtracking', '9c4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/bfs',
-        component: ComponentCreator('/docs/category/bfs', '501'),
+        path: '/Leetcoding/docs/category/bfs',
+        component: ComponentCreator('/Leetcoding/docs/category/bfs', '543'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/binary-indexed-tree',
-        component: ComponentCreator('/docs/category/binary-indexed-tree', 'ee9'),
+        path: '/Leetcoding/docs/category/binary-indexed-tree',
+        component: ComponentCreator('/Leetcoding/docs/category/binary-indexed-tree', 'e91'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/binary-search',
-        component: ComponentCreator('/docs/category/binary-search', '721'),
+        path: '/Leetcoding/docs/category/binary-search',
+        component: ComponentCreator('/Leetcoding/docs/category/binary-search', '1b0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/bit-manipulation',
-        component: ComponentCreator('/docs/category/bit-manipulation', '943'),
+        path: '/Leetcoding/docs/category/bit-manipulation',
+        component: ComponentCreator('/Leetcoding/docs/category/bit-manipulation', '053'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/dfs',
-        component: ComponentCreator('/docs/category/dfs', 'a1f'),
+        path: '/Leetcoding/docs/category/dfs',
+        component: ComponentCreator('/Leetcoding/docs/category/dfs', '012'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/dynamic-programing',
-        component: ComponentCreator('/docs/category/dynamic-programing', '8cc'),
+        path: '/Leetcoding/docs/category/dynamic-programing',
+        component: ComponentCreator('/Leetcoding/docs/category/dynamic-programing', '165'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/hashtable',
-        component: ComponentCreator('/docs/category/hashtable', '7df'),
+        path: '/Leetcoding/docs/category/hashtable',
+        component: ComponentCreator('/Leetcoding/docs/category/hashtable', 'f1d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/linked-list',
-        component: ComponentCreator('/docs/category/linked-list', '116'),
+        path: '/Leetcoding/docs/category/linked-list',
+        component: ComponentCreator('/Leetcoding/docs/category/linked-list', 'c09'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/math',
-        component: ComponentCreator('/docs/category/math', '55d'),
+        path: '/Leetcoding/docs/category/math',
+        component: ComponentCreator('/Leetcoding/docs/category/math', 'f3c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/segmant-tree',
-        component: ComponentCreator('/docs/category/segmant-tree', '869'),
+        path: '/Leetcoding/docs/category/segmant-tree',
+        component: ComponentCreator('/Leetcoding/docs/category/segmant-tree', '9ad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/sort',
-        component: ComponentCreator('/docs/category/sort', '790'),
+        path: '/Leetcoding/docs/category/sort',
+        component: ComponentCreator('/Leetcoding/docs/category/sort', '1bf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/sort-1',
-        component: ComponentCreator('/docs/category/sort-1', 'd78'),
+        path: '/Leetcoding/docs/category/sort-1',
+        component: ComponentCreator('/Leetcoding/docs/category/sort-1', 'c22'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/stack',
-        component: ComponentCreator('/docs/category/stack', '7ad'),
+        path: '/Leetcoding/docs/category/stack',
+        component: ComponentCreator('/Leetcoding/docs/category/stack', '45b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/string',
-        component: ComponentCreator('/docs/category/string', '9f8'),
+        path: '/Leetcoding/docs/category/string',
+        component: ComponentCreator('/Leetcoding/docs/category/string', 'da3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/tree',
-        component: ComponentCreator('/docs/category/tree', '876'),
+        path: '/Leetcoding/docs/category/tree',
+        component: ComponentCreator('/Leetcoding/docs/category/tree', '596'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/two-pointers',
-        component: ComponentCreator('/docs/category/two-pointers', '0de'),
+        path: '/Leetcoding/docs/category/two-pointers',
+        component: ComponentCreator('/Leetcoding/docs/category/two-pointers', '4dc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/union-find',
-        component: ComponentCreator('/docs/category/union-find', 'b52'),
+        path: '/Leetcoding/docs/category/union-find',
+        component: ComponentCreator('/Leetcoding/docs/category/union-find', 'c0e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/dashboard',
-        component: ComponentCreator('/docs/dashboard', 'af9'),
+        path: '/Leetcoding/docs/dashboard',
+        component: ComponentCreator('/Leetcoding/docs/dashboard', '2d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/DFS/num1',
-        component: ComponentCreator('/docs/DFS/num1', '167'),
+        path: '/Leetcoding/docs/DFS/num1',
+        component: ComponentCreator('/Leetcoding/docs/DFS/num1', '764'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/dynamic-programing/num1',
-        component: ComponentCreator('/docs/dynamic-programing/num1', '867'),
+        path: '/Leetcoding/docs/dynamic-programing/num1',
+        component: ComponentCreator('/Leetcoding/docs/dynamic-programing/num1', '7a9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/hashtable/num1',
-        component: ComponentCreator('/docs/hashtable/num1', '356'),
+        path: '/Leetcoding/docs/hashtable/num1',
+        component: ComponentCreator('/Leetcoding/docs/hashtable/num1', '438'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/linked-list/num1',
-        component: ComponentCreator('/docs/linked-list/num1', 'dae'),
+        path: '/Leetcoding/docs/linked-list/num1',
+        component: ComponentCreator('/Leetcoding/docs/linked-list/num1', '8e3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/math/num1',
-        component: ComponentCreator('/docs/math/num1', '2b0'),
+        path: '/Leetcoding/docs/math/num1',
+        component: ComponentCreator('/Leetcoding/docs/math/num1', 'f44'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/segmant-tree/num1',
-        component: ComponentCreator('/docs/segmant-tree/num1', 'fb8'),
+        path: '/Leetcoding/docs/segmant-tree/num1',
+        component: ComponentCreator('/Leetcoding/docs/segmant-tree/num1', '185'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/sliding-window/num1',
-        component: ComponentCreator('/docs/sliding-window/num1', '4a7'),
+        path: '/Leetcoding/docs/sliding-window/num1',
+        component: ComponentCreator('/Leetcoding/docs/sliding-window/num1', 'aea'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/sort/num1',
-        component: ComponentCreator('/docs/sort/num1', '185'),
+        path: '/Leetcoding/docs/sort/num1',
+        component: ComponentCreator('/Leetcoding/docs/sort/num1', '2f1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/stack/num1',
-        component: ComponentCreator('/docs/stack/num1', 'b6d'),
+        path: '/Leetcoding/docs/stack/num1',
+        component: ComponentCreator('/Leetcoding/docs/stack/num1', '8e1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/string/num1',
-        component: ComponentCreator('/docs/string/num1', 'fd5'),
+        path: '/Leetcoding/docs/string/merge-strings-alternately',
+        component: ComponentCreator('/Leetcoding/docs/string/merge-strings-alternately', '319'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tree/num1',
-        component: ComponentCreator('/docs/tree/num1', '16a'),
+        path: '/Leetcoding/docs/tree/num1',
+        component: ComponentCreator('/Leetcoding/docs/tree/num1', '9cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/two-pointers/num1',
-        component: ComponentCreator('/docs/two-pointers/num1', 'a82'),
+        path: '/Leetcoding/docs/two-pointers/num1',
+        component: ComponentCreator('/Leetcoding/docs/two-pointers/num1', '78a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/union-find/num1',
-        component: ComponentCreator('/docs/union-find/num1', '640'),
+        path: '/Leetcoding/docs/union-find/num1',
+        component: ComponentCreator('/Leetcoding/docs/union-find/num1', 'e43'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'f56'),
+    path: '/Leetcoding/',
+    component: ComponentCreator('/Leetcoding/', '392'),
     exact: true
   },
   {

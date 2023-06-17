@@ -6,7 +6,7 @@
   "source": "@site/docs/08-linked-list/num1.md",
   "sourceDirName": "08-linked-list",
   "slug": "/linked-list/num1",
-  "permalink": "/docs/linked-list/num1",
+  "permalink": "/Leetcoding/docs/linked-list/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08-linked-list/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Linked List",
-    "permalink": "/docs/category/linked-list"
+    "permalink": "/Leetcoding/docs/category/linked-list"
   },
   "next": {
     "title": "Segmant Tree",
-    "permalink": "/docs/category/segmant-tree"
+    "permalink": "/Leetcoding/docs/category/segmant-tree"
   }
 }

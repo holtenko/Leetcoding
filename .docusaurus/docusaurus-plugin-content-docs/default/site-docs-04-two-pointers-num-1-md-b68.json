@@ -6,7 +6,7 @@
   "source": "@site/docs/04-two-pointers/num1.md",
   "sourceDirName": "04-two-pointers",
   "slug": "/two-pointers/num1",
-  "permalink": "/docs/two-pointers/num1",
+  "permalink": "/Leetcoding/docs/two-pointers/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-two-pointers/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Two Pointers",
-    "permalink": "/docs/category/two-pointers"
+    "permalink": "/Leetcoding/docs/category/two-pointers"
   },
   "next": {
     "title": "Tree",
-    "permalink": "/docs/category/tree"
+    "permalink": "/Leetcoding/docs/category/tree"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "title": "DFS",
+  "slug": "/category/dfs",
+  "permalink": "/Leetcoding/docs/category/dfs",
+  "navigation": {
+    "previous": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/BFS/num1"
+    },
+    "next": {
+      "title": "Dashboard",
+      "permalink": "/Leetcoding/docs/DFS/num1"
+    }
+  }
+}

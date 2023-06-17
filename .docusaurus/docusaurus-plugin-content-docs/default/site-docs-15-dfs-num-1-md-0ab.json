@@ -6,7 +6,7 @@
   "source": "@site/docs/15-DFS/num1.md",
   "sourceDirName": "15-DFS",
   "slug": "/DFS/num1",
-  "permalink": "/docs/DFS/num1",
+  "permalink": "/Leetcoding/docs/DFS/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/15-DFS/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "DFS",
-    "permalink": "/docs/category/dfs"
+    "permalink": "/Leetcoding/docs/category/dfs"
   },
   "next": {
     "title": "Dynamic Programing",
-    "permalink": "/docs/category/dynamic-programing"
+    "permalink": "/Leetcoding/docs/category/dynamic-programing"
   }
 }

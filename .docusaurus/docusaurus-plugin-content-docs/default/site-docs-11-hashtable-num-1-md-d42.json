@@ -6,7 +6,7 @@
   "source": "@site/docs/11-hashtable/num1.md",
   "sourceDirName": "11-hashtable",
   "slug": "/hashtable/num1",
-  "permalink": "/docs/hashtable/num1",
+  "permalink": "/Leetcoding/docs/hashtable/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11-hashtable/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "HashTable",
-    "permalink": "/docs/category/hashtable"
+    "permalink": "/Leetcoding/docs/category/hashtable"
   },
   "next": {
     "title": "BackTracking",
-    "permalink": "/docs/category/backtracking"
+    "permalink": "/Leetcoding/docs/category/backtracking"
   }
 }

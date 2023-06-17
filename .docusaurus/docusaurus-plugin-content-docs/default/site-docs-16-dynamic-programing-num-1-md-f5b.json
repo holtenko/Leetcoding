@@ -6,7 +6,7 @@
   "source": "@site/docs/16-dynamic-programing/num1.md",
   "sourceDirName": "16-dynamic-programing",
   "slug": "/dynamic-programing/num1",
-  "permalink": "/docs/dynamic-programing/num1",
+  "permalink": "/Leetcoding/docs/dynamic-programing/num1",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/16-dynamic-programing/num1.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dynamic Programing",
-    "permalink": "/docs/category/dynamic-programing"
+    "permalink": "/Leetcoding/docs/category/dynamic-programing"
   },
   "next": {
     "title": "Union Find",
-    "permalink": "/docs/category/union-find"
+    "permalink": "/Leetcoding/docs/category/union-find"
   }
 }

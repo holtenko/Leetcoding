@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Holten",
   tagline: "Dinosaurs are cool",
-  url: "https://holtenko.github.io/Leetcoding",
-  baseUrl: "/",
+  url: "https://holtenko.github.io",
+  baseUrl: "/Leetcoding/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
