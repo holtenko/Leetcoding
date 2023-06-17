@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1157],{1701:e=>{e.exports=JSON.parse('{"title":"BFS","slug":"/category/bfs","permalink":"/Leetcoding/docs/category/bfs","navigation":{"previous":{"title":"Dashboard","permalink":"/Leetcoding/docs/sliding-window/num1"},"next":{"title":"Dashboard","permalink":"/Leetcoding/docs/BFS/num1"}}}')}}]);

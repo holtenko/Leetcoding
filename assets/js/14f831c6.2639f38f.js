@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5409],{3022:e=>{e.exports=JSON.parse('{"title":"Binary Search","slug":"/category/binary-search","permalink":"/docs/category/binary-search","navigation":{"previous":{"title":"Dashboard","permalink":"/docs/tree/num1"},"next":{"title":"Dashboard","permalink":"/docs/binary-search/num1"}}}')}}]);
