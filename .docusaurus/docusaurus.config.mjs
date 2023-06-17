@@ -6,7 +6,7 @@
 export default {
   "title": "Holten",
   "tagline": "Dinosaurs are cool",
-  "url": "http://holtenko.github.io/Leetcoding",
+  "url": "https://holtenko.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/holten/Workspace/Leetcoding/sidebars.js",
+          "sidebarPath": "C:\\Users\\holten\\Workspace\\Leetcoding\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/holten/Workspace/Leetcoding/src/css/custom.css"
+          "customCss": "C:\\Users\\holten\\Workspace\\Leetcoding\\src\\css\\custom.css"
         }
       }
     ]
@@ -108,7 +108,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Holten, Inc."
+      "copyright": "Copyright © 2023 Holten, Inc."
     },
     "prism": {
       "theme": {

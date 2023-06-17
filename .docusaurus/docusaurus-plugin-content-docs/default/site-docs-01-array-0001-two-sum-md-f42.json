@@ -1,8 +1,8 @@
 {
   "unversionedId": "array/two-sum",
   "id": "array/two-sum",
-  "title": "[1. Two Sum](https://leetcode.cn/problems/two-sum/)",
-  "description": "Description",
+  "title": "1. Two Sum",
+  "description": "Link",
   "source": "@site/docs/01-array/0001-two-sum.md",
   "sourceDirName": "01-array",
   "slug": "/array/two-sum",

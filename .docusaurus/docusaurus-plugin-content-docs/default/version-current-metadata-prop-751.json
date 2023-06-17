@@ -305,8 +305,8 @@
   "docs": {
     "array/two-sum": {
       "id": "array/two-sum",
-      "title": "[1. Two Sum](https://leetcode.cn/problems/two-sum/)",
-      "description": "Description",
+      "title": "1. Two Sum",
+      "description": "Link",
       "sidebar": "tutorialSidebar"
     },
     "backtracking/num1": {
